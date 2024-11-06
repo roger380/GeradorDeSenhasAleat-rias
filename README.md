@@ -1,5 +1,5 @@
 
-#include <stdio.h>
+ #include <stdio.h>
  #include <stdlib.h>
 
  int main()
@@ -8,7 +8,7 @@
    system("title gerador de senhas");
    printf("\t\t################################################");
    printf("\n\t\t## BEM VINDO AO GERADOR DE SENHAS ALEATORIAS! ##\n");
-   printf("\t\t## Programadores: Alan Iwson, Rogerio.   ##\n");
+   printf("\t\t## Programador: Alan Iwson, Rogerio.   ##\n");
    printf("\t\t################################################\n\n\n");
 
    int menu, quant, quant1, num,i;
